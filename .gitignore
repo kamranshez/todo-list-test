@@ -1,1 +1,11 @@
 PRIVATE.txt
+/target/
+Cargo.lock
+
+**/*.rs.bk
+
+*.exe
+
+.env
+
+**/temp/
